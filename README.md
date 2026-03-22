@@ -10,3 +10,17 @@ You just need the GenAI SDK and Pydantic:
 
 ```bash
 pip install google-genai pydantic
+```
+
+## Running it
+
+Before running the script, make sure your API key is exported in your terminal so the SDK can pick it up automatically:
+
+```bash
+export GEMINI_API_KEY="your_api_key_here"
+```
+
+Then, execute the file:
+
+Bash
+python eval.py
