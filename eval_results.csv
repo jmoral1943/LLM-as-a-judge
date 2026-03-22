@@ -1,0 +1,11 @@
+Question,Response,Tone_score,Relevance_score,Time_to_response
+What is the main objective of the ChronoSync project?,The main objective of the ChronoSync project is to release the MVP (Minimum Viable Product) of the time-tracking application using a unified codebase.,5,5,0.83
+Who is the stated author of this document?,The stated author of the document is the Engineering Lead.,5,5,0.73
+What specific technology stack is being used for the app?,The technology stack being used for the ChronoSync application is **Kotlin Multiplatform (KMP)** and **SQLite**.,5,5,0.94
+When was this document last updated?,The document was last updated on 2026-03-25.,5,5,0.88
+What is the deadline for the UI Integration phase?,The deadline for the UI Integration phase is **June 1**.,5,5,0.71
+How much of the budget is allocated specifically to cloud infrastructure?,"The budget allocated to cloud infrastructure is $2,000.",5,5,0.86
+Who is the target audience for this application?,The target audience for the ChronoSync application is freelancers and contractors.,5,5,0.80
+"If you add up all the categories, what is the total budget?","The total budget is **20,000** (15,000 dev + 2,000 cloud + 3,000 marketing).",5,5,0.76
+When is the Architecture phase scheduled to be completed?,The Architecture phase is scheduled to be completed by April 10.,5,5,0.66
+"Based on the budget, which area is getting the most funding?","Based on the budget provided, the **dev** (development) area is getting the most funding, with an allocation of $15,000.",5,5,0.81
